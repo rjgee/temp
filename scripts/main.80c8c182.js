@@ -1,0 +1,1 @@
+console.log("'Allo 'Allo!"),$("#myTabs a").click(function(a){a.preventDefault(),$(this).tab("show")});
